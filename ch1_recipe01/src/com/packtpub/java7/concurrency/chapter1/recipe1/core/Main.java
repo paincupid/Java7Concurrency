@@ -8,7 +8,7 @@ import com.packtpub.java7.concurrency.chapter1.recipe1.task.Calculator;
 public class Main {
 
 	/**
-	 * Main method of the example
+	 * Main method of the example222
 	 * @param args
 	 */
 	public static void main(String[] args) {
